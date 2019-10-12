@@ -1,8 +1,8 @@
-.header{
-    background: #000000;
+* {
+    margin: 0px;
+}   
+header{
     width: 1600px;
     height: 753px;
-}
-h1{
-    color: #ffff00;
+    background-image: url(https://wmpics.pics/dm-J228.png) no-repeat;
 }
